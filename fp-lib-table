@@ -1,0 +1,12 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AP65400P")(type "KiCad")(uri "${KICAD_LIB_ROOT}/footprints/AP65400P.pretty")(options "")(descr ""))
+  (lib (name "DPS310")(type "KiCad")(uri "${KICAD_LIB_ROOT}/footprints/DPS310.pretty")(options "")(descr ""))
+  (lib (name "HMC5883L-TR")(type "KiCad")(uri "${KICAD_LIB_ROOT}/footprints/HMC5883L-TR.pretty")(options "")(descr ""))
+  (lib (name "ICM42688P")(type "KiCad")(uri "${KICAD_LIB_ROOT}/footprints/ICM42688P.pretty")(options "")(descr ""))
+  (lib (name "ICM-45686")(type "KiCad")(uri "${KICAD_LIB_ROOT}/footprints/ICM-45686.pretty")(options "")(descr ""))
+  (lib (name "MMC5983MA")(type "KiCad")(uri "${KICAD_LIB_ROOT}/footprints/MMC5983MA.pretty")(options "")(descr ""))
+  (lib (name "MP2760GVT-0000-P")(type "KiCad")(uri "${KICAD_LIB_ROOT}/footprints/MP2760GVT-0000-P.pretty")(options "")(descr ""))
+  (lib (name "SAM-M10Q-00B")(type "KiCad")(uri "${KICAD_LIB_ROOT}/footprints/SAM-M10Q-00B.pretty")(options "")(descr ""))
+  (lib (name "SX1280")(type "KiCad")(uri "${KICAD_LIB_ROOT}/footprints/SX1280.pretty")(options "")(descr ""))
+)
