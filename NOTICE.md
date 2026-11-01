@@ -21,7 +21,7 @@ files as a redistributable library.
 
 ## Ultra Librarian
 
-Applies to: `AP65400P`, `ICM42688P`, `MMC5983MA`, `MP2760GVT-0000-P`.
+Applies to: `AP65400P`, `BMP581`, `ICM42688P`, `MMC5983MA`, `MP2760GVT-0000-P`.
 
 The vendor readme notes accompany the source bundles in `mincomk/flyer` and are not
 reproduced here.
