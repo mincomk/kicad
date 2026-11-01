@@ -22,6 +22,7 @@ provenance stays obvious. Where a vendor ships several land-pattern variants
 | Library | Symbol(s) | Footprints | 3D model | Source |
 |---|---|---|---|---|
 | AP65400P | `AP64500SP-13` | `SO-8EP_DIO`, `SO-8EP_DIO-L`, `SO-8EP_DIO-M` | - | Ultra Librarian |
+| BMP581 | `BMP581` | `QFN10_BMP581_BOS`, `-L`, `-M` | - | Ultra Librarian |
 | DPS310 | `DPS310XTSA1` | `XDCR_DPS310XTSA1` | `DPS310XTSA1.step` | SnapMagic (SnapEDA) |
 | HMC5883L-TR | `HMC5883L-TR` | `XDCR_HMC5883L-TR` | `HMC5883L-TR.step` | SnapMagic (SnapEDA) |
 | ICM-45686 | `ICM-45686` | `IC_ICM-45686` | `ICM-45686.step` | SnapMagic (SnapEDA) |
